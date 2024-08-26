@@ -4,3 +4,4 @@ pydantic
 firebase_admin
 pyrebase4
 requests
+python-multipart
